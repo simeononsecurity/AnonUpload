@@ -1,10 +1,10 @@
 <#PSScriptInfo
 
-.VERSION 1.0
+.VERSION 1.1
 
 .GUID cabe1358-d9ac-43fc-9b8e-4917152718a1
 
-.AUTHOR simeon@simeononsecurity.ch
+.AUTHOR simeononsecurity.ch
 
 .COMPANYNAME SimeonOnSecurity
 
