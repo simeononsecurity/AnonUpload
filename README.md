@@ -6,3 +6,8 @@ Ex.
 ```ps
 Upload-Anon -File .\temp.txt
 ```
+
+### How to install
+```ps
+Install-Script -Name Upload-Anon                    
+```
