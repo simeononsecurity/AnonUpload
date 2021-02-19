@@ -14,20 +14,20 @@
 
 .PROJECTURI https://github.com/simeononsecurity/AnonUpload
 
-.DESCRIPTION "Upload to AnonFiles.com easily Ex. 'Invoke-AnonUpload -File 'C:\temp\test.txt'"
+.DESCRIPTION "Upload to AnonFiles.com easily Ex. 'AnonUpload -File 'C:\temp\test.txt'"
 
 .RELEASENOTES
 Init
 
 #>
 
-function Invoke-AnonUpload {
+function AnonUpload {
     #Requires -Version 6.0
     param(
         [string]$File 
     )
     If (!$File) {
-        Write-Host "Please provide the a file. Ex: Invoke-AnonUpload -File 'C:\temp\test.txt'"
+        Write-Host "Please provide the a file. Ex: AnonUpload -File 'C:\temp\test.txt'"
     }
     Else {
         Write-Host "Please wait wile the file is uploaded"
