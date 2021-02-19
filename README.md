@@ -2,12 +2,18 @@
 A PowerShell Module to Upload to [anonfiles.com](https://anonfiles.com/)
 
 
-Ex.
+### Script Example
 ```ps
 AnonUpload -File .\temp.txt
 ```
 
-### How to install
-```ps
-Install-Script -Name AnonUpload                  
+### How to install:
+```powershell
+Install-Module -Name AnonUpload -Force
+Import-Module -Name AnonUpload -Force               
+```
+
+### How to Update:
+```powershell
+Update-Module -Name AnonUpload -Force      
 ```
