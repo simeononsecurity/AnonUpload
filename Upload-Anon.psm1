@@ -1,6 +1,6 @@
 <#PSScriptInfo
 
-.VERSION 1.1
+.VERSION 1.2
 
 .GUID cabe1358-d9ac-43fc-9b8e-4917152718a1
 
@@ -8,7 +8,7 @@
 
 .COMPANYNAME SimeonOnSecurity
 
-.COPYRIGHT 2020 SimeonOnSecurity. All rights reserved.
+.COPYRIGHT (c) 2020 SimeonOnSecurity.. All rights reserved.
 
 .TAGS AnonFiles Upload File Share FileShare
 
