@@ -12,22 +12,22 @@
 
 .TAGS AnonFiles Upload File Share FileShare
 
-.PROJECTURI https://github.com/simeononsecurity/Upload-Anon_PS
+.PROJECTURI https://github.com/simeononsecurity/AnonUpload_PS
 
-.DESCRIPTION "Upload to AnonFiles.com easily Ex. 'Upload-Anon -File 'C:\temp\test.txt'"
+.DESCRIPTION "Upload to AnonFiles.com easily Ex. 'AnonUpload -File 'C:\temp\test.txt'"
 
 .RELEASENOTES
 Init
 
 #>
 
-function Upload-Anon {
+function AnonUpload {
     #Requires -Version 6.0
     param(
         [string]$File 
     )
     If (!$File) {
-        Write-Host "Please provide the a file. Ex: Upload-Anon -File 'C:\temp\test.txt'"
+        Write-Host "Please provide the a file. Ex: AnonUpload -File 'C:\temp\test.txt'"
     }
     Else {
         Write-Host "Please wait wile the file is uploaded"
