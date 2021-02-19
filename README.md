@@ -9,8 +9,8 @@ AnonUpload -File .\temp.txt
 
 ### How to install:
 #### Manual:
-1.) Download from the [GitHub Repository](https://github.com/simeononsecurity/AnonUpload/archive/main.zip)
-2.) ```powershell Import-Module .\AnonUpload.psm1```
+1. Download from the [GitHub Repository](https://github.com/simeononsecurity/AnonUpload/archive/main.zip)
+2. ```powershell Import-Module .\AnonUpload.psm1```
 
 #### PowerShell Gallery:
 ```powershell
