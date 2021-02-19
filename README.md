@@ -1,13 +1,13 @@
-# Upload-Anon_PS
+# AnonUpload
 A PowerShell Module to Upload to [anonfiles.com](https://anonfiles.com/)
 
 
 Ex.
 ```ps
-Upload-Anon -File .\temp.txt
+AnonUpload -File .\temp.txt
 ```
 
 ### How to install
 ```ps
-Install-Script -Name Upload-Anon                    
+Install-Script -Name AnonUpload                  
 ```
