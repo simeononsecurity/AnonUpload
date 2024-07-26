@@ -1,6 +1,6 @@
 # AnonUpload
 
-[![VirusTotal Scan](https://github.com/simeononsecurity/AnonUpload/actions/workflows/virustotal.yml/badge.svg)](https://github.com/simeononsecurity/AnonUpload/actions/workflows/virustotal.yml)
+ [![Sponsor](https://img.shields.io/badge/Sponsor-Click%20Here-ff69b4)](https://github.com/sponsors/simeononsecurity) [![VirusTotal Scan](https://github.com/simeononsecurity/AnonUpload/actions/workflows/virustotal.yml/badge.svg)](https://github.com/simeononsecurity/AnonUpload/actions/workflows/virustotal.yml)
 
 A PowerShell Module to Upload to [anonfiles.com](https://anonfiles.com/)
 
